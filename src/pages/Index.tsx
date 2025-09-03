@@ -102,7 +102,7 @@ const Index = () => {
   const skills = {
     "Programming Languages": ["C", "C++", "Java", "Python"],
     "Web Development": ["HTML5", "CSS", "React", "Bootstrap", "Spring Boot"],
-    "Tools & Technologies": ["MySQL", "PostgreSQL", "Eclipse", "Google Colab", "Git", "Arduino"],
+    "Tools & Technologies": ["MySQL", "PostgreSQL", "MongoDB", "Eclipse", "Google Colab", "Git", "Arduino"],
     "Soft Skills": ["Team Leadership", "UI Design", "Research Writing","Communication"]
   };
 
